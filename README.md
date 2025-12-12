@@ -100,6 +100,9 @@ This bot runs **entirely in your local webbrowser** — no data is sent to any s
 
 
 ---
+if this program helped you please vote for us at the next codeathan we got 4th last time
+
+![please vote for us](./img/image_20251212_061422_3291ec.png)
 
 ## 📚 Documentation
 
